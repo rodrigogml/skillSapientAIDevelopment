@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 8. Implementation - Create Tasks"
+  short_description: "Create traceable implementation backlogs"
+  default_prompt: "Use $dev-pipeline-8-implementation-create-tasks to decompose specs, plans, and interface interactions into an executable task backlog."

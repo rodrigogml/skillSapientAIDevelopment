@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 9. Implementation - Analyze"
+  short_description: "Analyze SDD and interface consistency"
+  default_prompt: "Use $dev-pipeline-9-implementation-analyze to run a read-only consistency analysis across specs, plans, interfaces, contracts, tasks, and checklists."

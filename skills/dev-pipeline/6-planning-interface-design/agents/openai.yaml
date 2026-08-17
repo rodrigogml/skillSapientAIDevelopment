@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 6. Planning - Interface Design"
+  short_description: "Specify UI and interaction surfaces"
+  default_prompt: "Use $dev-pipeline-6-planning-interface-design to create an implementation-ready interface specification for a feature."

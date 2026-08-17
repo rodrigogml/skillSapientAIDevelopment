@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sapient AI Development"
+  short_description: "Conduza o desenvolvimento orientado por especificações"
+  default_prompt: "Use a skill Sapient AI Development para conduzir o pipeline de desenvolvimento na etapa apropriada e preservar a rastreabilidade dos artefatos."

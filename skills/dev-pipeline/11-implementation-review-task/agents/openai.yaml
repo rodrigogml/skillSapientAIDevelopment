@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 11. Implementation - Review Task"
+  short_description: "Review backlog progress and evidence"
+  default_prompt: "Use $dev-pipeline-11-implementation-review-task to review task progress, blockers, interaction evidence, and recommended next work."

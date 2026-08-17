@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 5. Planning - Plan"
+  short_description: "Plan architecture, surfaces, and contracts"
+  default_prompt: "Use $dev-pipeline-5-planning-plan to create a technical plan, including the interaction-surface architecture, from a clear SDD spec."

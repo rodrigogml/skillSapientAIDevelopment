@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 12. Implementation - Bugfix"
+  short_description: "Investigate and fix cross-layer bugs"
+  default_prompt: "Use $dev-pipeline-12-implementation-bugfix to trace a bug across layers and interaction contracts, fix its root cause, and verify the correction."

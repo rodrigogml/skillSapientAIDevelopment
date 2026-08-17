@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 1. Discovery - Briefing"
+  short_description: "Discover product scope and interaction channels"
+  default_prompt: "Use $dev-pipeline-1-discovery-briefing to discover a project, its users, interaction channels, scope, constraints, and quality expectations."

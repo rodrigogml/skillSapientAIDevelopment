@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Pipeline - 10. Implementation - Execute Task"
+  short_description: "Execute one backlog task with evidence"
+  default_prompt: "Use $dev-pipeline-10-implementation-execute-task to execute a selected backlog task end-to-end, verify applicable interactions, and update tasks.md."
