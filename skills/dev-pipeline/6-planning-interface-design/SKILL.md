@@ -153,13 +153,15 @@ Registrar `REQUIRED`, `OPTIONAL` ou `N/A` em cada interação. Quando `REQUIRED`
 
 ## 7. Validação
 
-Executar:
+O diretório de trabalho desta etapa é a raiz do projeto consumidor. O validador pertence a esta skill, não à pasta `scripts/` do projeto consumidor. Execute-o pelo caminho absoluto do diretório desta skill; nunca execute `python scripts/validate-interface-spec.py` a partir da raiz do projeto.
+
+Somente quando o diretório de trabalho já for a pasta desta skill, o comando relativo é válido:
 
 ```bash
-python scripts/validate-interface-spec.py docs/specs/{feature-short-name}/interface-spec.md
+python scripts/validate-interface-spec.py <caminho-do-projeto>/docs/specs/{feature-short-name}/interface-spec.md
 ```
 
-Se estiver fora da pasta da skill, usar o path absoluto do script.
+Em qualquer outro diretório, use o caminho absoluto do script e o caminho do `interface-spec.md` do projeto consumidor.
 
 Além do script, confirmar semanticamente:
 
